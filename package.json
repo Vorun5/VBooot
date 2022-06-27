@@ -1,0 +1,8 @@
+{
+  "name": "VBooot",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
